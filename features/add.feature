@@ -10,6 +10,6 @@ Scenario: Sum of two provided numbers
     Then I should get 12
 
 Scenario: Sum of two provided numbers
-    Given I provide the number 10 and the number 2
+    Given I provide the number 55 and the number 45
     When I add the numbers
-    Then I should get 13
+    Then I should get 100
