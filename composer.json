@@ -1,6 +1,6 @@
 {
   "require": {
-    "php": "^7.0.0"
+    "php": ">=5.5.9"
   },
   "require-dev": {
       "behat/behat": "~2.5"
