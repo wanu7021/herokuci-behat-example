@@ -6,5 +6,5 @@ Feature: AddOne
 
 Scenario: Add one to a number 
     Given I provide the number 2
-    When I add one to a number
+    When I add one to the number
     Then I should get 3
