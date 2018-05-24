@@ -52,7 +52,7 @@ class FeatureContext extends BehatContext {
    */
   public function iShouldGet($exp) {
     if ($this->res != $exp) {
-        throw new Exception("Actual sum: ".$this->res);
+        throw new Exception("Actual result: ".$this->res);
     }
   }
 }
