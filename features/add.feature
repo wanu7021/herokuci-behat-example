@@ -1,5 +1,5 @@
 # features/add.feature
-Feature: add
+Feature: Add
     As a person
     I need to provide two numbers
     Then the sum will be returned
