@@ -4,7 +4,7 @@ class AddOne {
   }
   /* Defining an add one Function */
   public function addOne($a) {
-    $a = 1;
+    $a += 1;
     return $a;
   }
 }
